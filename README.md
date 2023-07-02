@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently going the C# backend route in openbootcamp
+ I'm a junior developer, backend enthusiast with .net c#
 
 
 ## 🌐 Socials:
